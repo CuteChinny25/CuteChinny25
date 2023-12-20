@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Afulike Chinenyenwa Dorathy - aka CuteChinny25
-- 🌱 I’m recently completed learning Data Analysis with Python & SQL, so you can address me as a Data Analyst.
+- 🌱 I recently completed learning Data Analysis with Python & SQL, so you can address me as a Data Analyst.
 - 💞️ I’m looking to collaborate with other Data Analysts and Data Scientist
   
    
